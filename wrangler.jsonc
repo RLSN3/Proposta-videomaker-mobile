@@ -3,7 +3,6 @@
   "name": "proposta-videomaker",
   "compatibility_date": "2026-10-09",
   "assets": {
-    "directory": "./public",
-    "binding": "ASSETS"
+    "directory": "./public"
   }
 }
