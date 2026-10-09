@@ -5,3 +5,5 @@ Site estático de apresentação de proposta comercial.
 ## Publicação
 
 O projeto é implantado no Cloudflare Workers a partir da branch `main`, usando `wrangler.jsonc` e os arquivos estáticos da pasta `public/`.
+
+Atualização da proposta: o HTML publicado fica em `public/index.html`.
